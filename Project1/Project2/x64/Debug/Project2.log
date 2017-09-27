@@ -1,0 +1,7 @@
+﻿  Practice2.cpp
+  main.cpp
+d:\vsproject\project1\project2\main.cpp(162): warning C4101: “dur1”: 未引用的局部变量
+d:\vsproject\project1\project2\main.cpp(162): warning C4101: “dur2”: 未引用的局部变量
+  正在生成代码...
+  Project2.vcxproj -> D:\VSproject\Project1\x64\Debug\Project2.exe
+  Project2.vcxproj -> D:\VSproject\Project1\x64\Debug\Project2.pdb (Partial PDB)
